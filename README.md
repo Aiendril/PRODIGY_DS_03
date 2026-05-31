@@ -1,6 +1,6 @@
-# PRODIGY_DS_03     Aiendril Das
+# PRODIGY_DS_03   
 
-# Customer Purchase Prediction using Decision Tree Classifier
+# Customer Purchase Prediction using Decision Tree Classifier 
 
 ## Project Overview
 
